@@ -116,3 +116,4 @@ function displayCardsDynamically(collection) {
 }
 
 displayCardsDynamically("hikes");  //input param is the name of the collection
+
